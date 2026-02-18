@@ -167,7 +167,7 @@ export async function generatePDF(elementId: string, filename: string = 'resume.
     pdf.setProperties({
       title: filename.replace('.pdf', ''),
       subject: 'Professional Resume',
-      creator: 'Dubai-CV-Pro',
+      creator: 'CV Maker Pro',
     });
     
     pdf.save(filename);

@@ -14,24 +14,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dubai-CV-Pro | Build CEO-Level Resumes for the UAE Job Market",
-  description: "Create ATS-optimized, professional resumes tailored specifically for Dubai and UAE job market. AI-powered enhancement, executive templates, and instant PDF download. Trusted by 10,000+ professionals.",
-  keywords: ["Dubai resume", "UAE CV", "resume builder", "ATS friendly resume", "Dubai jobs", "UAE jobs", "professional resume", "CV builder", "career Dubai", "job search UAE"],
-  authors: [{ name: "Dubai-CV-Pro Team" }],
+  title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+  description: "Create stunning, ATS-optimized resumes tailored for Dubai & UAE job market. AI-powered enhancement, professional templates, instant PDF download. Land your dream job faster!",
+  keywords: ["CV maker", "resume builder", "Dubai resume", "UAE CV", "ATS friendly resume", "professional resume", "free CV maker", "AI resume", "job search", "career"],
+  authors: [{ name: "CV Maker Pro Team" }],
   icons: {
     icon: "/logo.svg",
   },
   openGraph: {
-    title: "Dubai-CV-Pro | Build CEO-Level Resumes for UAE",
-    description: "Create ATS-optimized, professional resumes tailored for Dubai & UAE job market. AI-powered, executive templates, instant PDF.",
-    url: "https://dubai-cv-pro.com",
-    siteName: "Dubai-CV-Pro",
+    title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+    description: "Create stunning, ATS-optimized resumes with AI. Professional templates, instant PDF download.",
+    url: "https://cv-maker-pro.com",
+    siteName: "CV Maker Pro",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Dubai-CV-Pro | Build CEO-Level Resumes for UAE",
-    description: "Create ATS-optimized, professional resumes tailored for Dubai & UAE job market.",
+    title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+    description: "Create stunning, ATS-optimized resumes with AI. Land your dream job faster!",
   },
 };
 
