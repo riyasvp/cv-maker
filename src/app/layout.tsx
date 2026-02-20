@@ -15,23 +15,23 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+  title: "YallaCV | Build CEO-Level Resumes in Seconds",
   description: "Create stunning, ATS-optimized resumes tailored for Dubai & UAE job market. AI-powered enhancement, professional templates, instant PDF download. Land your dream job faster!",
   keywords: ["CV maker", "resume builder", "Dubai resume", "UAE CV", "ATS friendly resume", "professional resume", "free CV maker", "AI resume", "job search", "career"],
-  authors: [{ name: "CV Maker Pro Team" }],
+  authors: [{ name: "YallaCV Team" }],
   icons: {
     icon: "/logo.svg",
   },
   openGraph: {
-    title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+    title: "YallaCV | Build CEO-Level Resumes in Seconds",
     description: "Create stunning, ATS-optimized resumes with AI. Professional templates, instant PDF download.",
-    url: "https://cv-maker-pro.com",
-    siteName: "CV Maker Pro",
+    url: "https://yallacv.online",
+    siteName: "YallaCV",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "CV Maker Pro | Build CEO-Level Resumes in Seconds",
+    title: "YallaCV | Build CEO-Level Resumes in Seconds",
     description: "Create stunning, ATS-optimized resumes with AI. Land your dream job faster!",
   },
 };
