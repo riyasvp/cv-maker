@@ -15,9 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "YallaCV | Build CEO-Level Resumes in Seconds",
-  description: "Create stunning, ATS-optimized resumes tailored for Dubai & UAE job market. AI-powered enhancement, professional templates, instant PDF download. Land your dream job faster!",
-  keywords: ["CV maker", "resume builder", "Dubai resume", "UAE CV", "ATS friendly resume", "professional resume", "free CV maker", "AI resume", "job search", "career"],
+  title: {
+    default: "YallaCV - Free CV & Resume Builder for UAE Professionals",
+    template: "%s | YallaCV"
+  },
+  description: "Create professional CVs and resumes for free. YallaCV helps UAE professionals build impressive resumes instantly. AI-powered enhancement, ATS-optimized templates.",
+  keywords: ["CV maker", "resume builder", "Dubai resume", "UAE CV", "ATS friendly resume", "professional resume", "free CV maker", "AI resume", "job search", "career", "YallaCV"],
   authors: [{ name: "YallaCV Team" }],
   icons: {
     icon: "/logo.svg",

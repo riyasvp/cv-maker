@@ -39,7 +39,7 @@ export default function Home() {
               <div className="w-8 h-8 bg-[#0f172a] rounded-lg flex items-center justify-center">
                 <FileText className="w-5 h-5 text-[#d4af37]" />
               </div>
-              <span className="font-bold text-xl text-[#0f172a]">YallaCV</span>
+              <span className="font-bold text-xl text-[#0f172a]">🇦🇪 YallaCV</span>
             </div>
             
             {/* Desktop Navigation */}
@@ -317,7 +317,7 @@ export default function Home() {
                 name: 'Ahmed Al Rashid',
                 role: 'Senior Project Manager',
                 company: 'Emirates Group',
-                quote: 'Within 2 weeks of using Dubai-CV-Pro, I received 5 interview calls. The AI enhancement feature made my experience sound incredibly professional.',
+                quote: 'Within 2 weeks of using YallaCV, I received 5 interview calls. The AI enhancement feature made my experience sound incredibly professional.',
                 rating: 5,
               },
               {
@@ -419,7 +419,7 @@ export default function Home() {
               <div className="w-8 h-8 bg-[#d4af37] rounded-lg flex items-center justify-center">
                 <FileText className="w-5 h-5 text-[#0f172a]" />
               </div>
-              <span className="font-bold text-xl text-white">YallaCV</span>
+              <span className="font-bold text-xl text-white">🇦🇪 YallaCV</span>
             </div>
             <div className="flex items-center gap-6 text-gray-400 text-sm">
               <span>© 2024 YallaCV. All rights reserved.</span>
